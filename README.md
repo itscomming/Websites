@@ -26,7 +26,11 @@ Websites i built
 
 # Books I Read
 [Richard Wright : Later Works: Black Boy (American Hunger), The Outsider Hardcover – October 1, 1991](https://www.amazon.com/Richard-Wright-American-Hunger-Outsider/dp/0940450674)
+
 [Moon Rising (Wings of Fire, Book 6)](https://www.amazon.com/Moon-Rising-Wings-Fire-Book/dp/0545685362)
+
 [Winter Turning (Wings of Fire #7) ](https://www.amazon.com/Winter-Turning-Wings-Fire-Book/dp/0545685397/)
+
 [The Brightest Night (Wings of Fire #5)](https://www.amazon.com/Wings-Fire-Book-Five-Brightest/dp/0545349273/)
+
 [Dragonslayer (Wings of Fire: Legends)](https://www.amazon.com/Dragonslayer-Wings-Fire-Tui-Sutherland/dp/1338214616/)
