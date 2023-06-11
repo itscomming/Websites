@@ -34,3 +34,5 @@ Websites i built
 [The Brightest Night (Wings of Fire #5)](https://www.amazon.com/Wings-Fire-Book-Five-Brightest/dp/0545349273/)
 
 [Dragonslayer (Wings of Fire: Legends)](https://www.amazon.com/Dragonslayer-Wings-Fire-Tui-Sutherland/dp/1338214616/)
+
+[Cat Kid Comic Club: Collaborations:](https://www.amazon.com/Cat-Kid-Comic-Club-Collaborations/dp/1338846620/)
