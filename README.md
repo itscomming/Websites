@@ -11,6 +11,3 @@ Websites i built
 
 
 
-
-
-![Screenshot 2023-06-11 012653](https://github.com/itscomming/Websites/assets/4396254/2785d6b3-8665-48f1-9bf0-d099203a28bf)
