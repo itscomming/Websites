@@ -44,13 +44,12 @@ Websites i built
 
 [Philly water prob.txt](https://github.com/itscomming/Websites/files/11714346/Philly.water.prob.txt)
 
-
 [FEB.15.New.Jersey.txt](https://github.com/itscomming/Websites/files/11714380/FEB.15.New.Jersey.txt)
 
-
 [Feb 9 New Jersey.txt](https://github.com/itscomming/Websites/files/11714396/Feb.9.New.Jersey.txt)
-
 
 [Feb 16th Missour.txt](https://github.com/itscomming/Websites/files/11714391/Feb.16th.Missour.txt)
 
 [Text Document.txt](https://github.com/itscomming/Websites/files/11714408/Text.Document.txt)
+
+# Math
