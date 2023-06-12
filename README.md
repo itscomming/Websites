@@ -74,3 +74,12 @@
 [Text Document.txt](https://github.com/itscomming/Websites/files/11714408/Text.Document.txt)
 
 # Math
+![handwriting_20230612_171641_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/1e0ed692-5468-4648-aa08-145bf9e30d91)
+
+
+
+![handwriting_20230612_170331_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/e7269d60-6544-4304-9c03-6898b8db7960)
+
+
+![handwriting_20230612_180431_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/602a3939-148d-4a80-86cb-3f55491e9553)
+
