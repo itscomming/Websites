@@ -24,11 +24,22 @@
 
 
 # Coding
+
+ Code from a HTLM Web Scraper
 <img width="595" alt="1499709616096_0b782591e27c9e5e3b7553a7806208f6" src="https://github.com/itscomming/Websites/assets/4396254/ead3f4f1-eb0d-4114-aa45-9d729e825b52">
 
 [HTML](https://www.w3schools.com/html/)
 
+CSS: turns The background to rainbow where ever the mouse goes
+![css-advance-1](https://github.com/itscomming/Websites/assets/4396254/fac972a0-b7f5-43a2-b5a9-c40276fc0294)
+
+
 [CSS](https://www.w3schools.com/css/)
+
+
+Python webscrapper
+
+![geektechstuff_input_classes](https://github.com/itscomming/Websites/assets/4396254/d6accddb-7231-49dc-b59e-ca9d7bf2a80f)
 
 [Python](https://www.python.org/)
 
