@@ -57,6 +57,11 @@
 
 # Reprots / Papers
 
+
+![handwriting_20230612_062704_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/67e5a2c7-8f93-4dbc-a956-f59d1096015e)
+
+![handwriting_20230612_050615_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/7f949293-1c0d-483c-a2c7-3a4e31c7b5da)
+
 [Philly water prob.txt](https://github.com/itscomming/Websites/files/11714346/Philly.water.prob.txt)
 
 [FEB.15.New.Jersey.txt](https://github.com/itscomming/Websites/files/11714380/FEB.15.New.Jersey.txt)
