@@ -78,7 +78,15 @@ Python webscrapper
 
 
 
+
 # Reprots / Papers
+
+
+Spelling words
+
+[New Text Document.txt](https://github.com/itscomming/Websites/files/11728802/New.Text.Document.txt)
+
+
 ![handwriting_20230612_063750_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/7a7358d3-bd19-4b6e-bc7f-095aca882245)
 
 ![handwriting_20230612_063456_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/56c1fa86-0b56-423d-921b-4a16094920dc)
