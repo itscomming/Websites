@@ -37,6 +37,13 @@ Websites i built
 
 [Cat Kid Comic Club: Collaborations:](https://www.amazon.com/Cat-Kid-Comic-Club-Collaborations/dp/1338846620/)
 
+[The Dragonet Prophecy ](https://www.amazon.com/Wings-Fire-Book-One-Dragonet/dp/0545349230/)
+
+[The Lost Heir](https://www.amazon.com/Lost-Heir-Wings-Fire/dp/1338883208/)
+
+[The Hidden Kingdom](https://www.amazon.com/Hidden-Kingdom-Wings-Fire/dp/1338883216)
+
+
 
 
 
