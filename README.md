@@ -82,7 +82,7 @@ Python webscrapper
 # Reprots / Papers
 
 
-Spelling words
+**Spelling words**
 
 [New Text Document.txt](https://github.com/itscomming/Websites/files/11728802/New.Text.Document.txt)
 
