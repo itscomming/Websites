@@ -56,11 +56,12 @@
 
 
 # Reprots / Papers
+![handwriting_20230612_063750_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/7a7358d3-bd19-4b6e-bc7f-095aca882245)
 
+![handwriting_20230612_063456_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/56c1fa86-0b56-423d-921b-4a16094920dc)
 
-![handwriting_20230612_062704_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/67e5a2c7-8f93-4dbc-a956-f59d1096015e)
+![handwriting_20230612_064344_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/7d1001f2-40eb-4ae2-8fa3-d3dd7920ae3d)
 
-![handwriting_20230612_050615_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/7f949293-1c0d-483c-a2c7-3a4e31c7b5da)
 
 [Philly water prob.txt](https://github.com/itscomming/Websites/files/11714346/Philly.water.prob.txt)
 
