@@ -35,7 +35,10 @@
 
 [HTML](https://www.w3schools.com/html/)
 
-CSS: turns The background to rainbow where ever the mouse goes
+CSS: turns The background and mouse rainbow 
+
+
+
 ![css-advance-1](https://github.com/itscomming/Websites/assets/4396254/fac972a0-b7f5-43a2-b5a9-c40276fc0294)
 
 
@@ -44,7 +47,10 @@ CSS: turns The background to rainbow where ever the mouse goes
 
 Python webscrapper
 
+
 ![geektechstuff_input_classes](https://github.com/itscomming/Websites/assets/4396254/d6accddb-7231-49dc-b59e-ca9d7bf2a80f)
+
+
 
 [Python](https://www.python.org/)
 
