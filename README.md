@@ -45,6 +45,7 @@ CSS: turns The background and mouse rainbow
 [CSS](https://www.w3schools.com/css/)
 
 
+
 Python webscrapper
 
 
@@ -113,4 +114,17 @@ Python webscrapper
 
 
 ![handwriting_20230612_180431_via_10015_io](https://github.com/itscomming/Websites/assets/4396254/602a3939-148d-4a80-86cb-3f55491e9553)
+
+
+
+
+# Safety / graphic design
+
+![download (3)](https://github.com/itscomming/Websites/assets/4396254/bba26a2d-4963-45cf-907f-8fe87a2ad021)
+
+
+![215-740-0324](https://github.com/itscomming/Websites/assets/4396254/a115bd56-077f-4bc9-a8e8-c2e2eb11b720)
+
+![215-740-0324 (8 5 × 11 in)](https://github.com/itscomming/Websites/assets/4396254/2d0d00af-1482-4833-9c84-ba6a5700b0ca)
+
 
