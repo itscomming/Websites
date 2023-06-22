@@ -125,7 +125,6 @@ Python webscrapper
 
 ![215-740-0324](https://github.com/itscomming/Websites/assets/4396254/a115bd56-077f-4bc9-a8e8-c2e2eb11b720)
 
-![215-740-0324 (8 5 × 11 in)](https://github.com/itscomming/Websites/assets/4396254/2d0d00af-1482-4833-9c84-ba6a5700b0ca)
 
 
 ![Summer](https://github.com/itscomming/Websites/assets/4396254/9b5801ee-da48-45fd-b559-dbcc462590aa)
