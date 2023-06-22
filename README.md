@@ -123,7 +123,8 @@ Python webscrapper
 ![download (3)](https://github.com/itscomming/Websites/assets/4396254/bba26a2d-4963-45cf-907f-8fe87a2ad021)
 
 
-![215-740-0324](https://github.com/itscomming/Websites/assets/4396254/a115bd56-077f-4bc9-a8e8-c2e2eb11b720)
+![215-740-0324 (8 5 × 11 in)](https://github.com/itscomming/Websites/assets/4396254/f89fd17d-60bd-491a-8fed-56275df97153)
+
 
 ![215-740-0324](https://github.com/itscomming/Websites/assets/4396254/c44ce3df-4f2e-4454-a6e4-ef55f98f0553)
 
