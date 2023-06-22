@@ -128,3 +128,10 @@ Python webscrapper
 ![215-740-0324 (8 5 × 11 in)](https://github.com/itscomming/Websites/assets/4396254/2d0d00af-1482-4833-9c84-ba6a5700b0ca)
 
 
+![Summer](https://github.com/itscomming/Websites/assets/4396254/9b5801ee-da48-45fd-b559-dbcc462590aa)
+
+![bady](https://github.com/itscomming/Websites/assets/4396254/56323f6b-0dda-4586-b565-db5e6b6f886a)
+
+![friday](https://github.com/itscomming/Websites/assets/4396254/5632a6f0-ab3b-4cf5-aacf-d768bde6a3ce)
+![215-740-0324 (24 × 12 in)](https://github.com/itscomming/Websites/assets/4396254/53561bd0-09c7-4071-8421-d11c3b9bbea6)
+![friday](https://github.com/itscomming/Websites/assets/4396254/8cc922ea-2c6d-43dd-a53f-3689f685b498)
