@@ -125,9 +125,10 @@ Python webscrapper
 
 ![215-740-0324](https://github.com/itscomming/Websites/assets/4396254/a115bd56-077f-4bc9-a8e8-c2e2eb11b720)
 
+![215-740-0324](https://github.com/itscomming/Websites/assets/4396254/c44ce3df-4f2e-4454-a6e4-ef55f98f0553)
 
 
-![Summer](https://github.com/itscomming/Websites/assets/4396254/9b5801ee-da48-45fd-b559-dbcc462590aa)
+
 
 ![bady](https://github.com/itscomming/Websites/assets/4396254/56323f6b-0dda-4586-b565-db5e6b6f886a)
 
